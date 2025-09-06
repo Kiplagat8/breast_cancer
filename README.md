@@ -5,7 +5,7 @@ Kenneth Ronald Kiplagat
 
 ---
 
-## 📌 Project Overview  
+##  Project Overview  
 This project applies the **CRISP-DM methodology** to the Breast Cancer dataset (available in `sklearn.datasets`).  
 The main goal is to **predict whether a tumor is malignant or benign** using machine learning techniques.  
 
@@ -19,7 +19,7 @@ The process covers the complete data science pipeline:
 
 ---
 
-## 📊 Dataset  
+##  Dataset  
 - Source: `sklearn.datasets.load_breast_cancer`  
 - Size: **569 samples, 30 features**  
 - Target Variable:  
@@ -28,7 +28,7 @@ The process covers the complete data science pipeline:
 
 ---
 
-## 🔎 Methodology (CRISP-DM Steps)  
+##  Methodology (CRISP-DM Steps)  
 
 ### 1. Business Understanding  
 - Breast cancer diagnosis is a critical medical task.  
@@ -73,7 +73,7 @@ The process covers the complete data science pipeline:
 
 ---
 
-## 📈 Results & Insights  
+##  Results & Insights  
 - The model demonstrates strong predictive power.  
 - Feature scaling improved performance.  
 - Important features include:  
@@ -84,12 +84,8 @@ The process covers the complete data science pipeline:
 
 ---
 
-## 🚀 Next Steps  
+##  Next Steps  
 - Try advanced models: Random Forest, Gradient Boosting, SVM.  
 - Use cross-validation for robustness.  
 - Deploy the model using Flask or Streamlit for real-world application.  
-
----
-
-## 📂 Repository Structure  
 
